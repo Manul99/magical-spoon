@@ -1,0 +1,5 @@
+.DS*Store
+.vscode/
+authentication.js
+node_modules
+notes/ \**/\_-todo.md
